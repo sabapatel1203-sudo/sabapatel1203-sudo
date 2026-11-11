@@ -146,6 +146,30 @@ A patient-focused medical platform concept featuring an interactive 3D human bod
   <i>A proud milestone in my journey of innovation, creativity and problem-solving.</i>
 </p>
 
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+  <i>Have an idea, opportunity, or exciting project? Let's build something meaningful together!</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/noorsaba-patel-0b8132421">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sabapatel1203-sudo">
+    <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>✨ Open to learning, collaborating and creating impactful AI solutions.</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 💜</i>
+</p>
+
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
