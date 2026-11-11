@@ -169,9 +169,14 @@ Recognized for innovation, creativity and problem-solving.
 
 ## ⚡ CONTRIBUTION ACTIVITY
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabapatel1203-sudo&bg_color=0d0221&color=c77dff&line=9d4edd&point=ffffff&area=true&hide_border=true)
+<div align="center">
 
----
+![GitHub Contribution Calendar](https://ghchart.rshah.org/C77DFF/sabapatel1203-sudo)
+
+</div>
+
+[View my full GitHub contribution activity](https://github.com/sabapatel1203-sudo/graphs/contributors)
+
 
 ## 🎯 CURRENTLY EXPLORING
 
