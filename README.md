@@ -61,95 +61,71 @@ I enjoy exploring the intersection of AI, software development, product innovati
 
 Exploring ideas across different domains, especially where AI can make a meaningful difference.
 
-<details>
-<summary><b>🛰️ ALTRON | AI Space Experiment Co-Pilot</b></summary>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<p align="center">Ideas turned into innovation, one project at a time.</p>
 
-**AI Procedural Intelligence for Space Experiments**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI-powered assistant designed to guide astronauts through onboard scientific experiments.
+<h3>🛰️ ALTRON</h3>
+<b>AI Space Experiment Co-Pilot</b>
 
-- Human activity recognition.
-- Step-by-step procedural guidance.
-- Experiment verification.
-- Deviation and skipped-step detection.
-- Next-action recommendations.
-- Timestamped experiment records.
+An intelligent assistant for astronauts that observes activities, verifies experiment procedures, provides step-by-step guidance and records experiment progress.
 
-**Observe • Verify • Guide • Record**
+<b>Focus:</b> AI • Computer Vision • Human Activity Recognition
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🧵 NOVIX | Intelligent Textile ERP</b></summary>
+<h3>🏭 NOVIX</h3>
+<b>AI-Powered Textile ERP</b>
 
-**AI-Powered Textile Business Management**
+A unified business management platform for textile industries, connecting orders, inventory, production, quality, billing and AI-powered insights.
 
-A centralized platform designed to streamline textile industry operations.
+<b>Focus:</b> AI • ERP • Business Intelligence
 
-- Sales and order management.
-- Inventory and production tracking.
-- Quality management.
-- Billing and supplier management.
-- AI-assisted forecasting and analytics.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**One Platform. Connected Operations. Smarter Decisions.**
+<h3>🌍 TRAVEL BUDDY</h3>
+<b>Smart Travel & Discovery Platform</b>
 
-</details>
+A platform concept connecting travellers with local services, learning opportunities, courses and useful resources.
 
-<details>
-<summary><b>✈️ TRAVEL BUDDY | Smart Travel Companion</b></summary>
+<b>Focus:</b> Web Development • Discovery • User Experience
 
-**Discover • Explore • Connect**
+</td>
+<td width="50%" valign="top">
 
-A smart discovery platform connecting users with useful services, opportunities and resources.
+<h3>🧠 DEMENTIA CARE</h3>
+<b>Personalized Cognitive Care</b>
 
-- Smart search and category-based discovery.
-- Local service discovery.
-- Price filters and reviews.
-- Courses and learning opportunities.
-- Personalized task exploration.
+A concept for personalized cognitive assessments, memory support and adaptive brain-training activities.
 
-</details>
+<b>Focus:</b> AI • Cognitive Assessment • Healthcare
 
-<details>
-<summary><b>🧠 DEMENTIA CARE | Cognitive Intelligence</b></summary>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-**Personalized Cognitive Assessment & Memory Support**
+<h3>🫀 VITALS AI</h3>
+<b>Interactive 3D Medical Intelligence</b>
 
-An AI-based concept focused on cognitive assessment and personalized memory support.
+A patient-focused medical platform concept featuring an interactive 3D human body, health history, treatment records and AI-powered medical insights for doctor-patient collaboration.
 
-- Adaptive brain-training activities.
-- Personalized cognitive assessments.
-- Cognitive performance tracking.
-- Memory-support experiences.
-- Progress-based difficulty adaptation.
+<b>Focus:</b> AI • 3D Visualization • HealthTech
 
-</details>
+</td>
+</tr>
+</table>
 
-<details>
-<summary><b>❤️ VITALS AI | Personalized Health Intelligence</b></summary>
-
-**Interactive 3D Medical Intelligence**
-
-A personalized health-tech concept connecting medical history with interactive human-body visualization.
-
-- Interactive 3D anatomical model.
-- Medical history and treatment tracking.
-- AI-assisted health explanations.
-- Health insights and risk awareness.
-- Doctor-patient collaboration.
-
-</details>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-### 🥇 Best Woman Innovator
-
-**Ideathon 3.0 | VCET College, Vasai**
-
-Recognized for innovation, creativity and problem-solving.
+<p align="center">
+<i>Building technology with purpose. Exploring possibilities beyond the ordinary.</i>
+</p>
 
 ---
 
