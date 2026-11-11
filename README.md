@@ -129,6 +129,73 @@ A patient-focused medical platform concept featuring an interactive 3D human bod
 
 ---
 
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<p align="center">Ideas turned into innovation, one project at a time.</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛰️ ALTRON</h3>
+<b>AI Space Experiment Co-Pilot</b>
+
+An intelligent assistant for astronauts that observes activities, verifies experiment procedures, provides step-by-step guidance and records experiment progress.
+
+<b>Focus:</b> AI • Computer Vision • Human Activity Recognition
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏭 NOVIX</h3>
+<b>AI-Powered Textile ERP</b>
+
+A unified business management platform for textile industries, connecting orders, inventory, production, quality, billing and AI-powered insights.
+
+<b>Focus:</b> AI • ERP • Business Intelligence
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 TRAVEL BUDDY</h3>
+<b>Smart Travel & Discovery Platform</b>
+
+A platform concept connecting travellers with local services, learning opportunities, courses and useful resources.
+
+<b>Focus:</b> Web Development • Discovery • User Experience
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 DEMENTIA CARE</h3>
+<b>Personalized Cognitive Care</b>
+
+A concept for personalized cognitive assessments, memory support and adaptive brain-training activities.
+
+<b>Focus:</b> AI • Cognitive Assessment • Healthcare
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>🫀 VITALS AI</h3>
+<b>Interactive 3D Medical Intelligence</b>
+
+A patient-focused medical platform concept featuring an interactive 3D human body, health history, treatment records and AI-powered medical insights for doctor-patient collaboration.
+
+<b>Focus:</b> AI • 3D Visualization • HealthTech
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<i>Building technology with purpose. Exploring possibilities beyond the ordinary.</i>
+</p>
+
+
 
 ## 📊 GITHUB ANALYTICS
 
