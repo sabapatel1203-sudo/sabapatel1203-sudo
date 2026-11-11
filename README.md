@@ -1,156 +1,112 @@
 # 💜 NOORSABA PATEL
 
-### `Building Ideas Into Intelligence.`
+<h3 align="center">AI & ML ENGINEERING STUDENT | INNOVATOR | BUILDER</h3>
 
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C77DFF&center=false&vCenter=true&width=650&lines=CSE+%7C+AI+%26+Machine+Learning;Creative+Thinker+%7C+Product+Builder;Turning+Ideas+Into+Intelligent+Solutions)
+<p align="center">
+  <b>Turning ideas into intelligent solutions.</b><br/>
+  Exploring Artificial Intelligence, Machine Learning and technology that makes a difference.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabapatel1203-sudo)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-7B2CBF?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/Innovation-C77DFF?style=for-the-badge)
-
----
-
-## ◈ NAVIGATION
-
-[About Me](#-about-me) • [Tech Stack](#-tech-stack) • [Projects](#-projects--innovation) • [Achievements](#-achievements) • [Analytics](#-github-analytics) • [Connect](#-lets-connect)
-
----
-
-## ✦ ABOUT ME
-
-Hey! I'm **Noorsaba Patel**, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning.
-
-I'm passionate about transforming ambitious ideas into intelligent, meaningful technology.
-
-I enjoy exploring the intersection of AI, software development, product innovation and real-world problem solving.
-
-> Don't just learn technology. Explore what you can build with it.
-
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💻 Building applications and intelligent systems.
-- 🧠 Interested in AI Prompting and intelligent workflows.
-- 🔬 Experimenting with innovative product ideas.
-- 🌍 Passionate about solving real-world challenges.
-- 🚀 Learning through building and experimenting.
+<p align="center">
+  <a href="https://github.com/sabapatel1203-sudo">
+    <img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/noorsaba-patel-0b8132421">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ◈ TECH STACK
+## 👩🏻‍💻 ABOUT ME
+
+- 🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+- 🤖 Passionate about AI, intelligent systems and solving real-world problems.
+- 💡 Interested in building technology that connects innovation with practical impact.
+- 🚀 Always exploring, experimenting and learning something new.
+- 🏆 **Best Woman Innovator**, Ideathon 3.0, VCET College, Vasai.
+
+**My mindset:** Don't just learn technology. Build something meaningful with it.
+
+---
+
+## 🛠️ TECH STACK
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-9D4EDD?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-5A189A?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 **Web Technologies**
 
-![HTML5](https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4361EE?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F4D35E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI & Creative Skills**
+**Areas of Interest**
 
-![AI Prompting](https://img.shields.io/badge/AI_Prompting-7B2CBF?style=for-the-badge&logo=openai&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-5A189A?style=for-the-badge)
-![Product Innovation](https://img.shields.io/badge/Product_Innovation-9D4EDD?style=for-the-badge)
-
----
-
-## 🚀 PROJECTS & INNOVATION
-
-Exploring ideas across different domains, especially where AI can make a meaningful difference.
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-<p align="center">Ideas turned into innovation, one project at a time.</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛰️ ALTRON</h3>
-<b>AI Space Experiment Co-Pilot</b>
-
-An intelligent assistant for astronauts that observes activities, verifies experiment procedures, provides step-by-step guidance and records experiment progress.
-
-<b>Focus:</b> AI • Computer Vision • Human Activity Recognition
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏭 NOVIX</h3>
-<b>AI-Powered Textile ERP</b>
-
-A unified business management platform for textile industries, connecting orders, inventory, production, quality, billing and AI-powered insights.
-
-<b>Focus:</b> AI • ERP • Business Intelligence
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌍 TRAVEL BUDDY</h3>
-<b>Smart Travel & Discovery Platform</b>
-
-A platform concept connecting travellers with local services, learning opportunities, courses and useful resources.
-
-<b>Focus:</b> Web Development • Discovery • User Experience
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧠 DEMENTIA CARE</h3>
-<b>Personalized Cognitive Care</b>
-
-A concept for personalized cognitive assessments, memory support and adaptive brain-training activities.
-
-<b>Focus:</b> AI • Cognitive Assessment • Healthcare
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<h3>🫀 VITALS AI</h3>
-<b>Interactive 3D Medical Intelligence</b>
-
-A patient-focused medical platform concept featuring an interactive 3D human body, health history, treatment records and AI-powered medical insights for doctor-patient collaboration.
-
-<b>Focus:</b> AI • 3D Visualization • HealthTech
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<i>Building technology with purpose. Exploring possibilities beyond the ordinary.</i>
-</p>
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-C77DFF?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6366F1?style=for-the-badge)
+![HealthTech](https://img.shields.io/badge/HealthTech-EC4899?style=for-the-badge)
 
 ---
 
-<h2 align="center">🏆 ACHIEVEMENTS & RECOGNITION</h2>
+## 🚀 FEATURED PROJECTS
+
+*Ideas turned into innovation, one project at a time.*
+
+| Project | Description | Focus |
+|---|---|---|
+| 🛰️ **ALTRON** | AI Space Experiment Co-Pilot designed to observe astronaut activities, verify experiment procedures, provide step-by-step guidance and record progress. | AI · Computer Vision · Human Activity Recognition |
+| 🏭 **NOVIX** | AI-powered textile ERP concept connecting orders, inventory, production, quality, billing and business insights. | AI · ERP · Business Intelligence |
+| 🌍 **TRAVEL BUDDY** | Travel and discovery platform concept connecting users with local services, learning opportunities and useful resources. | Web Development · Discovery · UX |
+| 🧠 **DEMENTIA CARE** | Personalized cognitive-care concept featuring cognitive assessments, memory support and adaptive brain-training activities. | AI · Cognitive Assessment · Healthcare |
+| 🫀 **VITALS AI** | Interactive 3D medical intelligence concept connecting a patient-specific body model with medical history, treatment records and AI-powered insights. | AI · 3D Visualization · HealthTech |
+
+---
+
+## 🏆 ACHIEVEMENTS & RECOGNITION
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BEST%20WOMAN%20INNOVATOR-Ideathon%203.0-C77DFF?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/BEST%20WOMAN%20INNOVATOR-Ideathon%203.0-C77DFF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
-<h3 align="center">🥇 Best Woman Innovator</h3>
+### 🥇 Best Woman Innovator
+
+**Ideathon 3.0 | VCET College, Vasai**
+
+A proud milestone in my journey of innovation, creativity and problem-solving.
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+**My GitHub Statistics**
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sabapatel1203-sudo&show_icons=true&theme=tokyonight&hide_border=true)
+
+**Most Used Languages**
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sabapatel1203-sudo&layout=compact&theme=tokyonight&hide_border=true)
+
+**Contribution Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sabapatel1203-sudo&theme=tokyonight&hide_border=true)
+
+**Contribution Activity**
+
+![Contribution Graph](https://ghchart.rshah.org/C77DFF/sabapatel1203-sudo)
+
+[View my GitHub activity](https://github.com/sabapatel1203-sudo)
+
+---
+
+## 🤝 LET'S CONNECT
 
 <p align="center">
-  Recognized at <b>Ideathon 3.0</b><br/>
-  VCET College, Vasai
-</p>
-
-<p align="center">
-  <i>A proud milestone in my journey of innovation, creativity and problem-solving.</i>
-</p>
-
-
-<h2 align="center">🤝 LET'S CONNECT</h2>
-
-<p align="center">
-  <i>Have an idea, opportunity, or exciting project? Let's build something meaningful together!</i>
+  <i>Have an idea, opportunity or exciting project? Let's build something meaningful together!</i>
 </p>
 
 <p align="center">
@@ -163,71 +119,9 @@ A patient-focused medical platform concept featuring an interactive 3D human bod
 </p>
 
 <p align="center">
-  <b>✨ Open to learning, collaborating and creating impactful AI solutions.</b>
+  **✨ Open to learning, collaborating and creating impactful AI solutions.**
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! 💜</i>
+  <i>Thanks for visiting my profile! Keep building. Keep exploring. 💜</i>
 </p>
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sabapatel1203-sudo&show_icons=true&theme=tokyonight&hide_border=true)
-</p>
-
-<p align="center">
-  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sabapatel1203-sudo&layout=compact&theme=tokyonight&hide_border=true)
-</p>
-
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=sabapatel1203-sudo&theme=tokyonight&hide_border=true)
-</p>
-
-<p align="center">
-  [![Contribution Graph](https://ghchart.rshah.org/C77DFF/sabapatel1203-sudo)](https://github.com/sabapatel1203-sudo)
-</p>
-
-
-## 🔥 CONTRIBUTION STREAK
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sabapatel1203-sudo&theme=dracula&hide_border=true)
-
----
-
-## ⚡ CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/C77DFF/sabapatel1203-sudo)
-
-</div>
-
-[View my full GitHub contribution activity](https://github.com/sabapatel1203-sudo/graphs/contributors)
-
-
-## 🎯 CURRENTLY EXPLORING
-
-- Artificial Intelligence and Machine Learning.
-- Intelligent software systems.
-- AI-powered product development.
-- Human-centered technology.
-- Creative problem-solving and engineering.
-
----
-
-## 🤝 LET'S CONNECT
-
-I'm always interested in connecting with developers, innovators and people who love building meaningful technology.
-
-[![GitHub](https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabapatel1203-sudo)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
----
-
-![Profile Visitors](https://komarev.com/ghpvc/?username=sabapatel1203-sudo&style=for-the-badge&color=7B2CBF&label=PROFILE+VISITORS)
-
-### ✨ Curiosity starts the idea. Engineering brings it to life.
-
-**Thanks for visiting my corner of GitHub! 💜**
