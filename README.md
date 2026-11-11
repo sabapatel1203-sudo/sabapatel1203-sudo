@@ -153,13 +153,25 @@ Recognized for innovation, creativity and problem-solving.
 
 ---
 
+
 ## 📊 GITHUB ANALYTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabapatel1203-sudo&show_icons=true&theme=dracula&hide_border=true&rank_icon=github)
+<p align="center">
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sabapatel1203-sudo&show_icons=true&theme=tokyonight&hide_border=true)
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabapatel1203-sudo&layout=compact&theme=dracula&hide_border=true)
+<p align="center">
+  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sabapatel1203-sudo&layout=compact&theme=tokyonight&hide_border=true)
+</p>
 
----
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=sabapatel1203-sudo&theme=tokyonight&hide_border=true)
+</p>
+
+<p align="center">
+  [![Contribution Graph](https://ghchart.rshah.org/C77DFF/sabapatel1203-sudo)](https://github.com/sabapatel1203-sudo)
+</p>
+
 
 ## 🔥 CONTRIBUTION STREAK
 
